@@ -5,7 +5,7 @@ grand_parent: Networking
 parent: Wireless
 ---
 
-# Preface
+# Configuring Ruckus Unleashed on Used R510 APs
 
 I recently snagged a lot of three Ruckus R510 wireless access points for a grand total of A$130 including postage (around £70). Pretty happy with that.
 
